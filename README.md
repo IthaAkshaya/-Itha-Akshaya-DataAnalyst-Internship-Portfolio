@@ -21,7 +21,7 @@ It demonstrates skills in Python, SQL, R, and Power BI, covering end-to-end work
 - [Task 4: Data Storytelling & Statistical Validation](https://github.com/IthaAkshaya/data_storytelling-4)  
   Deliverables: Final presentation deck, hypothesis testing summary.
   ## 🎥 Final Presentation
-[Click here to view the Final Presentation Deck](task4.pptx")
+[Click here to view the Final Presentation Deck](task_4.pptx")
 
 This presentation synthesizes all findings into a cohesive business narrative, validated with statistical methods, and highlights the business impact of the internship work.
 
